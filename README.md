@@ -55,10 +55,15 @@ _Repeat this section for all languages_
 
 ## 4. Back end checklist
 - [ ] Create a new admin and try to log in
+- [ ] Remove test user accounts
+- [ ] Check client account permissions
 - [ ] Try the password reset flow for existing user
 - [ ] Try saving article / news / ...
 - [ ] Verify all e-mail recipients are correct
 - [ ] Scan database for urls to development domain
+- [ ] Ensure plugins are installed
+    - [ ] Yoast SEO Pro
+    - [ ] Wordfence
 
 ## 5. Server, DNS & Services
 - [ ] Add redirects from old to new pages if necessary.
